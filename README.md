@@ -1,3 +1,3 @@
 # Reverse Engineering Beginner Module
-## Learn RE by practice
-Contains bunch of basic structure of C programming to learn RE by seeing its code.
+## Belajar RE dengan latihan
+Terdapat beberapa struktur dasar pemrograman bahasa C untuk belajar RE dengan melihat kodenya.
